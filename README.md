@@ -7,28 +7,28 @@ At the moment it is only possible to obtain the images from a .txt file, but in 
 ---
 # example :cloud:1
 <p align="center">
-  <img src="https://github.com/nicoambrosis/WordCloud/blob/main/Plan_corto.png">
+  <img src="https://github.com/NoeliaFerrero/WordCloud/blob/main/Plan_corto.png">
 </p>
 
 
 ---
 # example :cloud:2
 <p align="center">
-  <img src="https://github.com/nicoambrosis/WordCloud/blob/main/Cap3.png">
+  <img src="https://github.com/NoeliaFerrero/WordCloud/blob/main/Cap3.png">
 </p>
 
 
 ---
 # example :cloud:3
 <p align="center">
-  <img src="https://github.com/nicoambrosis/WordCloud/blob/main/Cap2.png">
+  <img src="https://github.com/NoeliaFerrero/WordCloud/blob/main/Cap2.png">
 </p>
 
 
 ---
 # example :cloud:4
 <p align="center">
-  <img src="https://github.com/nicoambrosis/WordCloud/blob/main/Introduccion.png">
+  <img src="https://github.com/NoeliaFerrero/WordCloud/blob/main/Introduccion.png">
 </p>
 
 
